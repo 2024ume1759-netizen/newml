@@ -1,0 +1,201 @@
+Timestamp,Branch,Year of study,Class (hrs/day),Sleep (hrs/night),Weekend,Weekly Study (hrs),Academic work completion,Weekly Attendance,Understanding of lectures,Study time management,Class participation,Overall Productivity,Screen Time (hrs/day)
+24/02/2026 10:53:27,Electrical,2nd Year,5-6,8+,Mostly relaxing / doing nothing,0-2,none,about half,poor,poor,Never,Low,4-5
+22/02/2026 07:40:53,Artificial Intelligence,2nd Year,5-6,8+,Mostly studying / completing assignments,0-2,none,most classes,poor,good,Rarely,Medium,5-6
+08/02/2026 22:58:05,Chemical,2nd Year,5-6,8+,Mixed leisure and some study,3-5,very little,about half,very poor,average,Never,Low,5-6
+20/02/2026 21:25:10,Computer Science,2nd Year,6-7,6-7,Balanced (study + relaxation),3-5,very little,most classes,good,average,Sometimes,Medium,6+
+20/02/2026 23:39:06,Computer Science,2nd Year,5-6,6-7,Balanced (study + relaxation),0-2,none,most classes,average,average,Often,Medium,<4
+16/03/2026 14:24:22,Electrical,1st Year,7+,6-7,Mixed leisure and some study,3-5,moderate,nearly all,average,poor,Sometimes,Low,4-5
+23/02/2026 05:45:09,Electronics,2nd Year,7+,6-7,Mostly studying / completing assignments,6-8,moderate,nearly all,good,average,Often,Medium,5-6
+15/03/2026 10:21:01,Civil,2nd Year,6-7,8+,Mixed leisure and some study,3-5,moderate,all classes,average,poor,Always,Low,4-5
+05/03/2026 12:10:55,Metallurgy,1st Year,5-6,8+,Mostly watching TV / social media,6-8,moderate,about half,poor,poor,Rarely,Medium,4-5
+18/02/2026 17:43:00,Mechanical,2nd Year,5-6,7-8,Balanced (study + relaxation),0-2,none,about half,poor,poor,Sometimes,Low,4-5
+10/01/2026 20:22:45,Computer Science,2nd Year,5-6,6-7,Mixed leisure and some study,6-8,moderate,all classes,average,excellent,Often,Medium,6+
+26/02/2026 08:26:09,Electronics,1st Year,7+,6-7,Mostly studying / completing assignments,3-5,high,all classes,good,average,Often,High,<4
+23/02/2026 13:48:40,Electronics,1st Year,5-6,6-7,Mostly relaxing / doing nothing,0-2,none,most classes,very poor,very poor,Sometimes,Low,<4
+16/02/2026 20:50:29,Artificial Intelligence,1st Year,5-6,6-7,Mostly relaxation,0-2,very little,most classes,average,average,Sometimes,Medium,4-5
+14/02/2026 07:12:39,Artificial Intelligence,2nd Year,7+,4-5,Mostly watching TV / social media,3-5,very little,most classes,very poor,very poor,Never,Low,<4
+19/02/2026 23:08:39,Computer Science,2nd Year,5-6,6-7,Mostly studying / completing assignments,3-5,moderate,nearly all,excellent,good,Sometimes,Medium,6+
+13/03/2026 01:19:44,Mechanical,1st Year,6-7,8+,Mostly studying / completing assignments,9-12,very high,most classes,excellent,good,Always,High,<4
+04/03/2026 18:34:19,Chemical,1st Year,6-7,6-7,Mixed leisure and some study,3-5,very little,nearly all,good,good,Often,Medium,4-5
+17/02/2026 00:15:53,Artificial Intelligence,2nd Year,5-6,6-7,Mostly relaxation,0-2,very little,about half,average,average,Sometimes,Low,4-5
+14/01/2026 01:43:46,Chemical,1st Year,6-7,6-7,Mixed leisure and some study,6-8,high,all classes,good,excellent,Often,Medium,5-6
+28/02/2026 02:29:57,Metallurgy,1st Year,7+,8+,Mostly studying / completing assignments,0-2,very little,most classes,poor,average,Sometimes,Medium,6+
+31/01/2026 17:58:07,Civil,1st Year,5-6,8+,Mostly studying / completing assignments,9-12,very high,all classes,good,excellent,Always,Medium,5-6
+16/02/2026 22:11:28,Electronics,1st Year,7+,6-7,Balanced (study + relaxation),0-2,none,nearly all,average,good,Sometimes,Medium,<4
+22/01/2026 15:17:14,Electronics,2nd Year,5-6,4-5,Mostly watching TV / social media,0-2,very little,about half,very poor,average,Never,Low,<4
+15/03/2026 10:21:54,Electronics,2nd Year,5-6,8+,Mixed leisure and some study,3-5,moderate,most classes,average,average,Sometimes,Low,4-5
+16/02/2026 20:25:44,Mechanical,2nd Year,6-7,8+,Mostly relaxation,0-2,very little,most classes,poor,average,Rarely,Low,<4
+23/01/2026 11:48:18,Metallurgy,1st Year,5-6,6-7,Mixed leisure and some study,3-5,moderate,most classes,good,excellent,Often,Medium,6+
+16/03/2026 02:55:49,Computer Science,1st Year,4-5,8+,Mostly relaxing / doing nothing,3-5,very little,about half,average,very poor,Sometimes,Low,<4
+16/02/2026 20:46:57,Computer Science,2nd Year,6-7,7-8,Mostly relaxation,0-2,none,most classes,average,average,Often,Medium,<4
+16/02/2026 20:23:50,Mechanical,1st Year,5-6,7-8,Balanced (study + relaxation),0-2,none,nearly all,average,average,Sometimes,Medium,4-5
+06/01/2026 02:28:17,Electrical,1st Year,7+,6-7,Mixed leisure and some study,6-8,moderate,nearly all,average,average,Always,Medium,6+
+09/03/2026 03:49:41,Electrical,1st Year,7+,8+,Mixed leisure and some study,6-8,moderate,most classes,average,average,Sometimes,Medium,6+
+20/02/2026 21:24:32,Computer Science,2nd Year,5-6,7-8,Balanced (study + relaxation),3-5,very little,nearly all,good,good,Often,Medium,5-6
+25/02/2026 15:30:28,Metallurgy,1st Year,5-6,6-7,Mostly studying / completing assignments,3-5,moderate,nearly all,good,excellent,Often,Medium,5-6
+22/02/2026 22:44:11,Mechanical,1st Year,6-7,8+,Mixed leisure and some study,6-8,high,nearly all,average,excellent,Always,Medium,5-6
+16/03/2026 16:42:39,Mechanical,2nd Year,5-6,6-7,Mostly watching TV / social media,0-2,moderate,all classes,average,poor,Rarely,Low,4-5
+03/03/2026 08:20:26,Electronics,2nd Year,4-5,8+,Mostly watching TV / social media,6-8,high,nearly all,good,poor,Often,Medium,<4
+22/02/2026 03:38:40,Metallurgy,2nd Year,6-7,6-7,Mixed leisure and some study,6-8,high,all classes,good,good,Often,High,4-5
+23/02/2026 17:47:07,Computer Science,1st Year,7+,8+,Mixed leisure and some study,3-5,moderate,nearly all,poor,good,Often,Medium,<4
+15/03/2026 10:45:11,Electrical,1st Year,5-6,4-5,Mostly relaxing / doing nothing,0-2,moderate,most classes,average,average,Rarely,Low,4-5
+22/01/2026 12:42:48,Electronics,1st Year,5-6,8+,Mostly studying / completing assignments,9-12,very little,nearly all,average,good,Sometimes,Medium,<4
+02/01/2026 06:53:56,Electrical,2nd Year,5-6,6-7,Mixed leisure and some study,0-2,none,nearly all,good,poor,Rarely,Medium,6+
+17/02/2026 16:39:05,Metallurgy,1st Year,5-6,6-7,Mostly studying / completing assignments,6-8,high,all classes,good,excellent,Often,High,6+
+15/03/2026 20:58:13,Electronics,1st Year,7+,4-5,Mixed leisure and some study,3-5,high,most classes,average,average,Rarely,Medium,4-5
+16/03/2026 06:40:53,Mechanical,2nd Year,5-6,8+,Mostly watching TV / social media,0-2,moderate,all classes,good,average,Never,Low,4-5
+15/03/2026 10:43:27,Mechanical,2nd Year,6-7,6-7,Mostly watching TV / social media,0-2,moderate,most classes,average,poor,Rarely,Low,4-5
+24/01/2026 01:47:07,Metallurgy,1st Year,7+,6-7,Mostly studying / completing assignments,6-8,high,most classes,average,average,Often,Medium,<4
+06/01/2026 18:46:50,Civil,1st Year,4-5,8+,Mixed leisure and some study,3-5,moderate,all classes,excellent,excellent,Always,High,4-5
+16/02/2026 21:08:37,Civil,1st Year,5-6,6-7,Mostly relaxation,0-2,very little,nearly all,good,good,Sometimes,Medium,4-5
+16/03/2026 08:20:02,Mechanical,1st Year,6-7,4-5,Mixed leisure and some study,3-5,moderate,nearly all,good,average,Often,Medium,4-5
+16/03/2026 01:16:59,Electronics,1st Year,5-6,<4,Mostly watching TV / social media,6-8,high,most classes,poor,average,Sometimes,Medium,4-5
+03/03/2026 23:49:31,Electronics,1st Year,4-5,6-7,Mostly studying / completing assignments,9-12,very high,all classes,excellent,excellent,Often,Medium,6+
+16/02/2026 20:36:36,Computer Science,2nd Year,5-6,7-8,Balanced (study + relaxation),3-5,moderate,most classes,average,average,Often,Medium,4-5
+15/03/2026 12:22:36,Metallurgy,2nd Year,6-7,8+,Mixed leisure and some study,0-2,very little,nearly all,poor,poor,Rarely,Low,4-5
+05/01/2026 01:53:50,Electronics,2nd Year,5-6,4-5,Mixed leisure and some study,6-8,moderate,nearly all,average,excellent,Often,High,4-5
+12/01/2026 12:00:03,Electronics,2nd Year,7+,8+,Mostly watching TV / social media,3-5,moderate,about half,good,good,Sometimes,Medium,4-5
+16/02/2026 22:55:24,Electrical,1st Year,6-7,6-7,Balanced (study + relaxation),6-8,moderate,most classes,average,good,Sometimes,Medium,<4
+04/03/2026 01:37:24,Civil,2nd Year,7+,<4,Mostly relaxing / doing nothing,0-2,very little,about half,poor,average,Rarely,Low,4-5
+06/01/2026 14:50:26,Artificial Intelligence,2nd Year,4-5,6-7,Mixed leisure and some study,3-5,moderate,nearly all,good,average,Sometimes,Medium,6+
+18/02/2026 00:16:47,Civil,2nd Year,6-7,6-7,Mostly relaxation,0-2,very little,most classes,poor,average,Rarely,Low,4-5
+07/02/2026 13:02:12,Electronics,1st Year,6-7,8+,Mostly watching TV / social media,0-2,none,less than 50%,very poor,average,Sometimes,Low,5-6
+15/03/2026 10:14:05,Electrical,2nd Year,4-5,6-7,Mostly watching TV / social media,6-8,moderate,nearly all,average,average,Often,Low,4-5
+23/02/2026 05:12:27,Electronics,2nd Year,4-5,8+,Mixed leisure and some study,9-12,very high,nearly all,excellent,average,Often,Medium,4-5
+16/02/2026 20:52:16,Chemical,1st Year,6-7,6-7,Balanced (study + relaxation),3-5,moderate,nearly all,good,good,Often,Medium,<4
+16/03/2026 00:57:45,Mechanical,1st Year,7+,6-7,Mostly relaxing / doing nothing,6-8,high,nearly all,good,good,Never,Medium,4-5
+17/02/2026 00:34:37,Chemical,2nd Year,4-5,6-7,Mostly watching TV / social media,0-2,very little,most classes,good,average,Often,Medium,5-6
+04/01/2026 03:47:47,Electrical,2nd Year,4-5,6-7,Mixed leisure and some study,0-2,none,nearly all,poor,average,Often,Medium,6+
+20/02/2026 23:25:54,Computer Science,2nd Year,5-6,5-6,Balanced (study + relaxation),6-8,moderate,most classes,average,average,Sometimes,Medium,<4
+02/02/2026 22:16:25,Electronics,1st Year,7+,6-7,Mostly studying / completing assignments,9-12,high,nearly all,good,good,Often,High,6+
+08/03/2026 20:46:34,Chemical,2nd Year,4-5,4-5,Mostly studying / completing assignments,6-8,high,nearly all,good,good,Sometimes,Medium,<4
+20/02/2026 03:53:57,Civil,1st Year,7+,4-5,Mixed leisure and some study,6-8,high,nearly all,good,good,Often,High,<4
+16/02/2026 21:25:16,Artificial Intelligence,1st Year,6-7,5-6,Balanced (study + relaxation),3-5,very little,most classes,average,poor,Sometimes,Low,4-5
+14/02/2026 11:52:58,Mechanical,2nd Year,6-7,8+,Balanced (study + relaxation),0-2,none,nearly all,average,good,Often,Medium,5-6
+15/03/2026 10:07:41,Chemical,2nd Year,7+,6-7,Mixed leisure and some study,3-5,very high,all classes,average,average,Sometimes,Medium,4-5
+04/03/2026 03:31:47,Mechanical,1st Year,4-5,8+,Mostly studying / completing assignments,9-12,very high,most classes,average,excellent,Always,Medium,4-5
+21/01/2026 15:29:25,Electronics,1st Year,7+,8+,Mostly studying / completing assignments,3-5,moderate,nearly all,good,average,Sometimes,High,<4
+15/03/2026 18:21:25,Civil,2nd Year,5-6,6-7,Mostly studying / completing assignments,3-5,high,most classes,average,good,Sometimes,Medium,4-5
+17/02/2026 09:44:29,Electronics,1st Year,7+,6-7,Mostly studying / completing assignments,9-12,high,all classes,good,good,Often,Medium,<4
+15/03/2026 20:53:40,Chemical,1st Year,5-6,6-7,Mostly relaxing / doing nothing,0-2,high,less than 50%,very poor,very poor,Never,Low,4-5
+06/03/2026 19:03:19,Electrical,1st Year,6-7,<4,Mixed leisure and some study,3-5,moderate,most classes,poor,poor,Rarely,Low,5-6
+20/02/2026 22:47:41,Computer Science,2nd Year,5-6,6-7,Mostly relaxation,0-2,none,about half,average,average,Sometimes,Low,<4
+16/03/2026 08:47:32,Chemical,1st Year,6-7,6-7,Mostly watching TV / social media,0-2,moderate,nearly all,average,poor,Sometimes,Low,4-5
+16/02/2026 21:02:23,Artificial Intelligence,1st Year,5-6,6-7,Balanced (study + relaxation),3-5,moderate,about half,average,poor,Sometimes,Low,<4
+11/02/2026 20:47:00,Electronics,2nd Year,7+,4-5,Mostly studying / completing assignments,3-5,moderate,most classes,average,average,Sometimes,Medium,4-5
+09/02/2026 11:22:43,Electronics,1st Year,4-5,6-7,Mixed leisure and some study,9-12,high,nearly all,excellent,average,Sometimes,Medium,5-6
+08/02/2026 07:43:46,Electrical,2nd Year,5-6,4-5,Mostly watching TV / social media,3-5,moderate,most classes,very poor,average,Rarely,Low,<4
+07/01/2026 11:59:30,Artificial Intelligence,1st Year,6-7,8+,Mostly watching TV / social media,3-5,moderate,about half,poor,poor,Sometimes,Medium,4-5
+15/03/2026 20:59:16,Mechanical,2nd Year,7+,6-7,Mostly relaxing / doing nothing,3-5,high,most classes,very poor,good,Rarely,Medium,4-5
+15/03/2026 10:09:20,Mechanical,2nd Year,6-7,6-7,Mostly watching TV / social media,3-5,moderate,most classes,average,average,Sometimes,Medium,4-5
+15/02/2026 12:16:45,Mechanical,1st Year,6-7,8+,Mixed leisure and some study,3-5,moderate,about half,average,average,Sometimes,Medium,4-5
+18/02/2026 14:04:10,Electrical,2nd Year,5-6,7-8,Balanced (study + relaxation),0-2,none,most classes,good,average,Often,Medium,4-5
+18/01/2026 22:34:12,Artificial Intelligence,1st Year,4-5,4-5,Mostly watching TV / social media,3-5,very little,nearly all,average,average,Sometimes,Medium,6+
+15/03/2026 10:26:54,Civil,2nd Year,5-6,8+,Mostly studying / completing assignments,6-8,high,all classes,good,average,Often,Medium,4-5
+16/01/2026 22:37:19,Metallurgy,2nd Year,4-5,8+,Mostly watching TV / social media,0-2,very little,most classes,average,average,Sometimes,Medium,<4
+15/03/2026 10:16:24,Civil,2nd Year,6-7,6-7,Mixed leisure and some study,3-5,moderate,most classes,average,average,Rarely,Low,4-5
+13/01/2026 15:05:12,Chemical,1st Year,4-5,8+,Mostly studying / completing assignments,3-5,moderate,most classes,average,good,Rarely,Medium,4-5
+16/02/2026 21:04:26,Artificial Intelligence,2nd Year,6-7,6-7,Balanced (study + relaxation),0-2,none,most classes,average,average,Often,Medium,<4
+26/02/2026 12:50:43,Mechanical,2nd Year,7+,6-7,Mostly watching TV / social media,3-5,very little,nearly all,average,average,Sometimes,Medium,4-5
+15/03/2026 10:24:48,Mechanical,2nd Year,6-7,6-7,Mixed leisure and some study,0-2,moderate,all classes,poor,poor,Sometimes,Low,4-5
+13/03/2026 23:48:44,Electrical,2nd Year,6-7,8+,Mixed leisure and some study,3-5,moderate,most classes,very poor,very poor,Rarely,Low,5-6
+15/03/2026 22:25:10,Civil,2nd Year,6-7,6-7,Mostly relaxing / doing nothing,0-2,high,most classes,average,poor,Rarely,Low,4-5
+16/03/2026 11:21:54,Mechanical,1st Year,5-6,<4,Mostly studying / completing assignments,9-12,none,less than 50%,average,excellent,Never,Low,4-5
+16/02/2026 20:41:03,Civil,2nd Year,6-7,5-6,Balanced (study + relaxation),3-5,very little,most classes,average,average,Often,Medium,6+
+16/02/2026 20:31:41,Artificial Intelligence,1st Year,6-7,7-8,Mostly relaxation,0-2,none,about half,poor,average,Sometimes,Low,6+
+17/02/2026 23:46:16,Chemical,2nd Year,6-7,6-7,Mostly relaxation,3-5,moderate,nearly all,average,average,Sometimes,Medium,4-5
+04/01/2026 14:53:08,Artificial Intelligence,2nd Year,5-6,8+,Mixed leisure and some study,0-2,very little,most classes,average,average,Often,Medium,4-5
+15/03/2026 21:19:50,Chemical,1st Year,6-7,6-7,Mostly watching TV / social media,0-2,high,all classes,good,very poor,Always,Low,4-5
+14/02/2026 00:29:29,Electrical,2nd Year,7+,8+,Mostly watching TV / social media,3-5,moderate,nearly all,good,average,Sometimes,Medium,5-6
+16/02/2026 20:22:55,Computer Science,2nd Year,5-6,5-6,Balanced (study + relaxation),0-2,very little,nearly all,good,good,Often,Medium,5-6
+18/02/2026 18:24:25,Metallurgy,2nd Year,5-6,5-6,Balanced (study + relaxation),0-2,very little,about half,average,average,Rarely,Low,5-6
+29/01/2026 06:39:33,Electrical,2nd Year,4-5,6-7,Mostly relaxing / doing nothing,0-2,very little,about half,very poor,average,Rarely,Low,6+
+26/01/2026 04:00:59,Electronics,1st Year,7+,8+,Mostly studying / completing assignments,3-5,moderate,most classes,average,average,Rarely,Medium,<4
+04/01/2026 05:18:20,Electrical,2nd Year,4-5,8+,Mostly studying / completing assignments,6-8,high,nearly all,good,good,Sometimes,Medium,<4
+05/03/2026 02:19:11,Metallurgy,1st Year,5-6,6-7,Mixed leisure and some study,9-12,very high,nearly all,excellent,good,Often,Medium,6+
+16/02/2026 15:50:56,Electrical,1st Year,4-5,8+,Mostly watching TV / social media,3-5,very little,about half,poor,poor,Never,Low,<4
+23/01/2026 02:05:19,Computer Science,1st Year,4-5,6-7,Mostly studying / completing assignments,6-8,moderate,all classes,good,excellent,Always,Medium,6+
+23/01/2026 23:54:17,Metallurgy,2nd Year,7+,8+,Mostly watching TV / social media,6-8,moderate,nearly all,average,poor,Often,Medium,<4
+15/03/2026 10:36:11,Civil,2nd Year,6-7,6-7,Mixed leisure and some study,6-8,moderate,nearly all,average,poor,Sometimes,Low,4-5
+13/01/2026 10:59:51,Metallurgy,2nd Year,5-6,6-7,Mostly watching TV / social media,3-5,moderate,nearly all,average,average,Often,Medium,4-5
+28/01/2026 13:23:24,Metallurgy,1st Year,5-6,8+,Mixed leisure and some study,6-8,high,most classes,average,poor,Sometimes,Medium,6+
+05/03/2026 01:18:16,Electrical,2nd Year,7+,6-7,Mostly studying / completing assignments,3-5,moderate,most classes,good,average,Sometimes,Medium,6+
+14/03/2026 07:29:41,Mechanical,2nd Year,4-5,8+,Mostly studying / completing assignments,9-12,very high,most classes,good,good,Often,Medium,4-5
+12/03/2026 09:21:43,Mechanical,2nd Year,4-5,6-7,Mostly studying / completing assignments,6-8,moderate,most classes,good,average,Often,Medium,4-5
+16/03/2026 18:25:44,Mechanical,1st Year,4-5,6-7,Mostly relaxing / doing nothing,3-5,very little,about half,poor,poor,Rarely,Low,6+
+11/03/2026 17:16:44,Mechanical,2nd Year,6-7,6-7,Mixed leisure and some study,3-5,moderate,nearly all,average,average,Sometimes,Medium,4-5
+29/01/2026 17:10:17,Chemical,2nd Year,5-6,8+,Mostly studying / completing assignments,6-8,high,nearly all,average,average,Often,Medium,5-6
+11/01/2026 17:39:01,Electronics,1st Year,6-7,6-7,Mixed leisure and some study,6-8,high,all classes,average,average,Sometimes,High,6+
+16/02/2026 20:25:57,Mechanical,1st Year,5-6,6-7,Balanced (study + relaxation),3-5,moderate,nearly all,average,good,Often,Medium,<4
+15/03/2026 00:00:36,Electronics,2nd Year,4-5,4-5,Mostly watching TV / social media,3-5,moderate,most classes,poor,average,Rarely,Low,4-5
+28/01/2026 03:49:38,Electrical,2nd Year,7+,8+,Mixed leisure and some study,9-12,very high,nearly all,good,good,Sometimes,High,5-6
+20/02/2026 21:29:54,Computer Science,2nd Year,6-7,7-8,Mostly relaxation,6-8,moderate,most classes,average,average,Often,Medium,4-5
+15/03/2026 21:15:48,Chemical,1st Year,5-6,4-5,Mixed leisure and some study,3-5,very little,nearly all,very poor,very poor,Always,Low,4-5
+15/03/2026 21:50:16,Mechanical,2nd Year,6-7,4-5,Mostly watching TV / social media,3-5,moderate,all classes,average,average,Rarely,Medium,4-5
+16/02/2026 20:27:31,Civil,1st Year,6-7,6-7,Mostly relaxation,0-2,none,most classes,average,good,Often,Medium,4-5
+21/01/2026 16:29:55,Metallurgy,1st Year,6-7,8+,Mostly studying / completing assignments,3-5,moderate,about half,average,poor,Often,Medium,4-5
+01/02/2026 21:33:22,Mechanical,2nd Year,5-6,8+,Mixed leisure and some study,3-5,moderate,nearly all,good,good,Often,Medium,5-6
+16/02/2026 00:10:18,Chemical,2nd Year,7+,8+,Mixed leisure and some study,0-2,none,about half,poor,average,Never,Low,5-6
+16/02/2026 21:11:48,Mechanical,2nd Year,6-7,7-8,Balanced (study + relaxation),0-2,none,about half,average,average,Sometimes,Low,4-5
+16/02/2026 22:17:36,Artificial Intelligence,2nd Year,6-7,5-6,Balanced (study + relaxation),3-5,very little,most classes,good,good,Often,Medium,4-5
+18/02/2026 00:38:26,Computer Science,2nd Year,6-7,6-7,Balanced (study + relaxation),3-5,very little,most classes,average,poor,Sometimes,Low,4-5
+19/02/2026 20:19:24,Chemical,2nd Year,6-7,8+,Mostly studying / completing assignments,6-8,moderate,nearly all,good,good,Often,Medium,6+
+31/01/2026 01:48:45,Mechanical,2nd Year,6-7,8+,Mostly watching TV / social media,6-8,moderate,about half,poor,average,Often,Medium,4-5
+06/01/2026 00:18:49,Chemical,2nd Year,4-5,8+,Mostly studying / completing assignments,3-5,moderate,most classes,good,average,Often,Medium,4-5
+14/03/2026 07:10:02,Metallurgy,1st Year,5-6,4-5,Mixed leisure and some study,6-8,moderate,about half,average,average,Sometimes,Medium,<4
+15/03/2026 10:00:32,Electrical,2nd Year,5-6,4-5,Mixed leisure and some study,6-8,moderate,most classes,good,average,Sometimes,Medium,4-5
+11/01/2026 15:11:07,Chemical,2nd Year,6-7,6-7,Mixed leisure and some study,6-8,moderate,nearly all,good,good,Always,High,4-5
+24/01/2026 13:39:25,Electrical,1st Year,6-7,8+,Mostly studying / completing assignments,3-5,moderate,all classes,excellent,excellent,Always,Medium,5-6
+05/03/2026 08:07:54,Electronics,2nd Year,4-5,6-7,Mostly watching TV / social media,3-5,moderate,nearly all,average,average,Often,Medium,4-5
+15/03/2026 10:11:13,Mechanical,2nd Year,7+,6-7,Mostly relaxing / doing nothing,0-2,moderate,nearly all,average,poor,Rarely,Low,4-5
+10/02/2026 05:21:02,Computer Science,1st Year,4-5,4-5,Mixed leisure and some study,0-2,very little,less than 50%,average,very poor,Rarely,Low,6+
+07/01/2026 12:07:19,Mechanical,2nd Year,7+,6-7,Mostly studying / completing assignments,6-8,moderate,all classes,good,excellent,Often,High,6+
+16/02/2026 21:03:21,Artificial Intelligence,2nd Year,4-5,7-8,Mostly relaxation,0-2,very little,most classes,poor,average,Sometimes,Low,<4
+13/03/2026 05:19:14,Chemical,2nd Year,6-7,8+,Mostly watching TV / social media,0-2,none,most classes,very poor,average,Rarely,Low,<4
+15/03/2026 22:48:03,Chemical,1st Year,6-7,4-5,Mostly relaxing / doing nothing,0-2,very little,less than 50%,very poor,poor,Often,Low,4-5
+23/02/2026 02:43:40,Metallurgy,1st Year,5-6,5-6,Mostly relaxation,3-5,moderate,most classes,average,good,Often,Medium,6+
+17/02/2026 23:22:49,Mechanical,1st Year,6-7,6-7,Mostly relaxation,0-2,very little,all classes,good,good,Always,Medium,6+
+16/02/2026 20:21:17,Mechanical,2nd Year,6-7,6-7,Mostly relaxation,0-2,very little,nearly all,excellent,excellent,Always,Medium,<4
+28/02/2026 10:12:56,Computer Science,2nd Year,6-7,8+,Mixed leisure and some study,9-12,very high,all classes,excellent,good,Always,Medium,5-6
+08/01/2026 04:58:03,Artificial Intelligence,1st Year,6-7,8+,Mostly studying / completing assignments,3-5,moderate,nearly all,average,average,Often,Medium,<4
+29/01/2026 13:57:20,Artificial Intelligence,1st Year,5-6,6-7,Mostly watching TV / social media,3-5,moderate,about half,poor,average,Sometimes,Low,<4
+29/01/2026 12:40:34,Chemical,1st Year,6-7,6-7,Mostly studying / completing assignments,3-5,moderate,most classes,average,good,Sometimes,Medium,5-6
+16/02/2026 20:27:14,Mechanical,1st Year,6-7,5-6,Mostly studying / completing assignments,9-12,very high,most classes,good,good,Often,Medium,6+
+20/02/2026 23:30:40,Computer Science,2nd Year,6-7,7-8,Balanced (study + relaxation),0-2,very little,nearly all,average,average,Sometimes,Medium,5-6
+12/01/2026 19:47:57,Chemical,2nd Year,5-6,4-5,Mixed leisure and some study,0-2,none,less than 50%,very poor,average,Sometimes,Low,4-5
+17/02/2026 23:46:17,Mechanical,2nd Year,6-7,6-7,Mostly relaxation,0-2,very little,nearly all,average,good,Often,Medium,<4
+09/03/2026 01:14:28,Electronics,2nd Year,7+,8+,Mostly studying / completing assignments,6-8,high,most classes,average,good,Sometimes,Medium,6+
+28/02/2026 19:12:29,Artificial Intelligence,2nd Year,7+,8+,Mixed leisure and some study,6-8,high,most classes,poor,average,Sometimes,Medium,4-5
+06/01/2026 11:40:00,Civil,2nd Year,6-7,6-7,Mostly watching TV / social media,3-5,very little,about half,poor,poor,Often,Medium,6+
+20/01/2026 03:13:45,Civil,1st Year,7+,6-7,Mixed leisure and some study,6-8,moderate,about half,average,average,Sometimes,Medium,5-6
+16/02/2026 20:45:26,Artificial Intelligence,2nd Year,6-7,6-7,Balanced (study + relaxation),6-8,moderate,nearly all,good,average,Often,Medium,5-6
+16/02/2026 21:14:12,Mechanical,1st Year,7+,5-6,Mostly relaxation,0-2,none,about half,poor,poor,Sometimes,Low,5-6
+15/03/2026 10:53:14,Chemical,2nd Year,5-6,6-7,Mixed leisure and some study,0-2,moderate,nearly all,average,average,Sometimes,Low,4-5
+17/02/2026 23:41:43,Electrical,2nd Year,4-5,7-8,Balanced (study + relaxation),0-2,none,nearly all,average,average,Sometimes,Medium,4-5
+10/02/2026 23:09:12,Chemical,2nd Year,6-7,6-7,Mixed leisure and some study,3-5,very little,most classes,excellent,average,Always,Medium,4-5
+07/03/2026 18:20:49,Electrical,2nd Year,6-7,8+,Mixed leisure and some study,6-8,moderate,all classes,good,average,Always,Medium,5-6
+11/01/2026 12:04:37,Electronics,1st Year,4-5,4-5,Mostly watching TV / social media,3-5,very little,about half,poor,poor,Sometimes,Low,6+
+16/03/2026 11:23:03,Chemical,2nd Year,6-7,6-7,Mostly studying / completing assignments,3-5,moderate,most classes,average,average,Never,Low,4-5
+04/03/2026 15:53:04,Mechanical,2nd Year,5-6,8+,Mixed leisure and some study,3-5,moderate,most classes,poor,average,Often,Medium,4-5
+16/02/2026 20:25:48,Mechanical,1st Year,5-6,5-6,Mostly relaxation,0-2,none,most classes,average,good,Sometimes,Medium,6+
+11/01/2026 03:10:17,Chemical,1st Year,6-7,4-5,Mostly watching TV / social media,3-5,very little,about half,poor,average,Rarely,Low,4-5
+16/02/2026 20:32:32,Artificial Intelligence,1st Year,6-7,8+,Mostly relaxation,0-2,none,most classes,poor,poor,Sometimes,Low,6+
+12/03/2026 18:00:06,Artificial Intelligence,1st Year,4-5,8+,Mostly watching TV / social media,3-5,moderate,about half,poor,good,Rarely,Medium,<4
+27/01/2026 16:58:39,Artificial Intelligence,2nd Year,4-5,8+,Mixed leisure and some study,3-5,moderate,most classes,average,average,Rarely,Medium,5-6
+15/03/2026 10:08:43,Mechanical,2nd Year,6-7,6-7,Mixed leisure and some study,0-2,very little,most classes,average,poor,Often,Low,4-5
+16/02/2026 21:27:59,Artificial Intelligence,1st Year,6-7,6-7,Balanced (study + relaxation),6-8,moderate,nearly all,average,good,Often,Medium,5-6
+28/02/2026 03:14:20,Electronics,1st Year,7+,6-7,Mixed leisure and some study,6-8,moderate,nearly all,good,excellent,Often,Medium,4-5
+05/02/2026 07:15:53,Chemical,1st Year,4-5,8+,Mostly relaxing / doing nothing,3-5,moderate,less than 50%,very poor,poor,Never,Low,<4
+20/02/2026 23:18:50,Artificial Intelligence,2nd Year,6-7,5-6,Balanced (study + relaxation),6-8,moderate,most classes,good,good,Sometimes,Medium,<4
+14/01/2026 14:15:01,Computer Science,1st Year,7+,6-7,Mixed leisure and some study,6-8,moderate,about half,good,average,Sometimes,Medium,4-5
+04/03/2026 19:12:08,Mechanical,1st Year,5-6,8+,Mixed leisure and some study,3-5,very little,most classes,good,excellent,Often,Medium,6+
+15/03/2026 10:14:39,Electronics,2nd Year,4-5,6-7,Mixed leisure and some study,3-5,moderate,nearly all,average,average,Often,Medium,4-5
+14/01/2026 13:47:52,Electronics,2nd Year,7+,6-7,Mostly studying / completing assignments,3-5,moderate,most classes,good,average,Sometimes,Medium,4-5
+11/03/2026 12:33:11,Electronics,1st Year,6-7,8+,Mixed leisure and some study,3-5,moderate,about half,average,average,Sometimes,Medium,5-6
+01/02/2026 08:49:10,Computer Science,1st Year,5-6,<4,Mixed leisure and some study,0-2,very little,less than 50%,very poor,poor,Sometimes,Low,6+
+20/02/2026 18:03:18,Chemical,1st Year,4-5,6-7,Mixed leisure and some study,6-8,moderate,most classes,good,good,Often,Medium,5-6
+16/02/2026 12:03:39,Electronics,2nd Year,4-5,<4,Mostly watching TV / social media,0-2,none,less than 50%,very poor,average,Never,Low,4-5
+13/02/2026 09:45:53,Artificial Intelligence,1st Year,4-5,6-7,Mostly studying / completing assignments,6-8,high,nearly all,average,good,Sometimes,High,5-6
+15/01/2026 12:05:25,Artificial Intelligence,2nd Year,7+,8+,Mixed leisure and some study,3-5,very little,all classes,good,good,Sometimes,Medium,6+
+20/02/2026 23:28:33,Electronics,1st Year,5-6,6-7,Mixed leisure and some study,3-5,very little,most classes,average,good,Often,Medium,<4
+21/02/2026 11:41:13,Artificial Intelligence,1st Year,5-6,6-7,Mostly relaxation,3-5,very little,most classes,average,average,Sometimes,Medium,5-6
